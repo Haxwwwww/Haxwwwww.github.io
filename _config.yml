@@ -11,7 +11,7 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "攀最高的峰，做自在的鸥。"
 sidebar-avatar: /img/Jeff.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
